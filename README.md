@@ -9,7 +9,8 @@
 
 Music on Voice Calls Telegram
 
-[![Image Preview](https://raw.githubusercontent.com/Kry9toN/KryPtoN-Music-Bot/master/etc/preview.jpg)](https://github.com/Kry9toN/KryPtoN-Music-Bot)
+[![Image Preview](https://raw.githubusercontent.com/Kry9toN/KryPtoN-Music-Bot/master/etc/preview.jpg)](https://github.com/abhijitkar2003
+/KryPtoN-Music-Bot)
 
 # Support
 - Python 3.7 or above
